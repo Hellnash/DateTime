@@ -1,7 +1,7 @@
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 
-public class Classes {
+public class DateTimeClass {
     public static void main(String[] args) {
 
         //This class returns system date without any zone

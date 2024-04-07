@@ -1,9 +1,8 @@
 import java.time.*;
-import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 import java.util.Set;
 
-public class Methods {
+public class DateTimeMethod {
 
     public static void main(String[] args) {
 
